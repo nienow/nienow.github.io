@@ -1,0 +1,47 @@
+@import '~@angular/material/theming';
+
+@mixin app-theme($theme) {
+	$primary: map-get($theme, primary);
+	$background: map-get($theme, background);
+	$foreground: map-get($theme, foreground);
+
+	.app-content {
+		background-color: mat-color($background, background);
+		color: mat-color($foreground, text);
+	}
+
+	.app-header {
+		background-color: mat-color($primary);
+		color: mat-color($primary, default-contrast);
+	}
+
+  .home-header {
+    background-color: mat-color($primary);
+    color: mat-color($primary, default-contrast);
+  }
+
+  .resume-block__content {
+    color: mat-color($foreground, secondary-text);
+  }
+}
+
+@mixin app-typography($config) {
+	//.app-header__page-title {
+	//	@include mat-typography-level-to-styles($config, title);
+	//}
+  .app-content {
+    @include mat-typography-level-to-styles($config, body-1);
+  }
+
+  .home-header__title {
+    @include mat-typography-level-to-styles($config, display-2);
+  }
+
+  .resume-section__title {
+    @include mat-typography-level-to-styles($config, title);
+  }
+
+  .resume-block__title {
+    @include mat-typography-level-to-styles($config, subheading-2);
+  }
+}

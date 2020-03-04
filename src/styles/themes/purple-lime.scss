@@ -1,0 +1,10 @@
+@import '~@angular/material/theming';
+@import 'app-theme';
+
+// Create the theme object (a Sass map containing all of the palettes).
+$nienow-purple-lime-theme: mat-dark-theme(mat-palette($mat-purple), mat-palette($mat-lime), mat-palette($mat-red));
+
+.theme-purple-lime {
+	@include angular-material-theme($nienow-purple-lime-theme);
+	@include nienow-app-theme($nienow-purple-lime-theme);
+}

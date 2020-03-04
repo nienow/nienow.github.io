@@ -1,0 +1,22 @@
+@import '~@angular/material/theming';
+@import 'app-typography';
+
+$nienow-small-typography: mat-typography-config(
+	$display-4: mat-typography-level(112px, 112px, 300),
+	$display-3: mat-typography-level(56px, 56px, 400),
+	$display-2: mat-typography-level(45px, 48px, 400),
+	$display-1: mat-typography-level(34px, 40px, 400),
+	$headline: mat-typography-level(20px, 28px, 300),
+	$title: mat-typography-level(16px, 28px, 400),
+	$subheading-2: mat-typography-level(14px, 24px, 300),
+	$subheading-1: mat-typography-level(13px, 20px, 300),
+	$body-2: mat-typography-level(12px, 14px, 400),
+	$body-1: mat-typography-level(12px, 12px, 300),
+	$caption: mat-typography-level(10px, 16px, 300),
+	$button: mat-typography-level(12px, 12px, 400)
+);
+
+.typography-small {
+	@include angular-material-typography($nienow-small-typography);
+	@include nienow-app-typography($nienow-small-typography);
+}
