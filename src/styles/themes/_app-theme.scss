@@ -1,7 +1,0 @@
-@import '../../app/app.theme';
-@import '../../app/shared/skill-timeline/skill-timeline.theme';
-
-@mixin nienow-app-theme($theme) {
-	@include app-theme($theme);
-  @include skill-timeline-theme($theme);
-}

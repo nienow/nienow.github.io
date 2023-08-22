@@ -1,9 +1,0 @@
-/**
- * This file contains the mixin to create a typography for our shared components.
- * Whenever a new component typography mixin is created, it should be added here.
- */
-@import '../../app/app.theme';
-
-@mixin nienow-app-typography($config) {
-	@include app-typography($config)
-}

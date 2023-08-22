@@ -1,9 +1,0 @@
-@import '~@angular/material/theming';
-
-@mixin theme-selection-theme($theme) {
-	$background: map-get($theme, background);
-
-	.typography-sample--active {
-		background-color: mat-color($background, hover);
-	}
-}

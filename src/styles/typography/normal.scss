@@ -1,9 +1,0 @@
-@import '~@angular/material/theming';
-@import 'app-typography';
-
-$nienow-normal-typography: mat-typography-config();
-
-.typography-normal {
-	@include angular-material-typography($nienow-normal-typography);
-	@include nienow-app-typography($nienow-normal-typography);
-}
