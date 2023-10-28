@@ -1,15 +1,22 @@
 ---
+import '../styles/main.css';
+import About from '../../README.md';
 ---
 
 <html lang="en">
 	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Matthew Nienow | Software Engineer</title>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width=device-width,initial-scale=1"/>
+		<link rel="icon" type="image/png" href="/favicon.svg"/>
+		<title>Matthew Nienow - Software Engineer</title>
+		<!--<meta property="og:description" name="description" content=""/>-->
+		<!--<meta property="og:title" content={title}/>-->
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Advent Pro"/>
 	</head>
 	<body>
-		<a href="https://randombits.dev">Random Bits Software Engineering</a>
+	<div class="title">Hi, I'm Matthew Nienow</div>
+	<div class="subtitle">A software engineer from Duluth, MN</div>
+	<About/>
 	</body>
 </html>
+

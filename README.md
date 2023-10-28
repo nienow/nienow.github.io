@@ -1,47 +1,97 @@
-# Astro Starter Kit: Minimal
 
-```
-npm create astro@latest -- --template minimal
-```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+# My Links
+* [Random Bits Software Engineering](https://randombits.dev) - This is my business website
+* [Random Bits Github Profile](https://github.com/randombits-dev)
+* [Personal Github Profile](https://github.com/nienow)
+* [Twitter](https://twitter.com/RandomBitsDev)
+* [Discord](https://discordapp.com/users/806661811143049216)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+# My Personal Projects
 
-## 🚀 Project Structure
+## Heroicus
 
-Inside of your Astro project, you'll see the following folders and files:
+[//]: # (<img src="/heroicus.webp" alt="Heroicus Logo" width="100%"/>)
 
-```
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+Winner of the [Fantom Hackathon Q2 2023](https://devpost.com/software/heroicus)
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+A cloud computing platform, powered by blockchain. Run your own Stable Diffusion or Docker servers by renting NFTs, and paying with crypto. The application state is completely managed on the blockchain, while the servers are provisioned by AWS.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+[app](http://heroicus.xyz/)
+[docs](https://docs.heroicus.xyz/)
+[github](https://github.com/nienow/heroicus)
+[video](https://youtu.be/q--0eLbIEvI?si=6FYLa3f62O-5pCy1)
 
-Any static assets, like images, can be placed in the `public/` directory.
+<hr/>
 
-## 🧞 Commands
+## Fontable
 
-All commands are run from the root of the project, from a terminal:
+Find the right Google font by embedding a temporary font picker on your website.
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:3000`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+[demo](https://randombits-dev.github.io/fontable/) [github](https://github.com/randombits-dev/fontable)
 
-## 👀 Want to learn more?
+<hr/>
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+## Standard Notes Extensions, Themes, and Guides
+
+Extensions, themes, and guides to the privacy-focused note-taking app Standard Notes.
+
+[Standard Notes Extension List](https://randombits.dev/standard-notes/extensions-list)
+
+#### Cosmos Extension
+
+Splits a note into multiple areas, and each area can use a different editor. Also includes an extension marketplace.
+
+[github](https://github.com/nienow/cosmos)
+
+#### Excalidraw Extension
+
+A drawing editor for Standard Notes, powered by Excalidraw.
+
+[github](https://github.com/nienow/sn-excalidraw)
+
+#### Mermaid Extension
+
+A diagram generator for Standard Notes, powered by Mermaid.
+
+[github](https://github.com/nienow/sn-mermaid)
+
+#### Quill Extension
+
+A lightweight rich text editor for Standard Notes, powered by Quilljs.
+
+[github](https://github.com/nienow/sn-quill)
+
+#### Overcast Theme
+
+A simple grayscale theme for Standard Notes.
+
+[github](https://github.com/nienow/sn-theme-overcast)
+
+#### Standard Notes Extension API
+
+An easier-to-use API for writing Standard Note Extensions.
+
+[github](https://github.com/nienow/sn-extension-api)
+[npm](https://www.npmjs.com/package/sn-extension-api)
+
+#### Standard Notes Extension Template
+
+A starter template for creating Standard Notes Extensions.
+
+[github](https://github.com/nienow/sn-extension-template)
+
+#### Standard Notes Guides
+
+1. [Installing Extensions](https://randombits.dev/standard-notes/installing-extensions)
+2. [Creating Standard Notes Extensions](https://randombits.dev/standard-notes/creating-extensions)
+
+<hr/>
+
+## Snowrunner Save Editor
+
+A save editor for the game Snowrunner. Has the ability to edit task and mission progress, and reveal or obtain upgrades.
+
+[app](https://randombits.dev/tools/snowrunner)
+[github](https://github.com/nienow/snowrunner-save-editor)
