@@ -7,7 +7,32 @@
 * [Twitter](https://twitter.com/RandomBitsDev)
 * [Discord](https://discordapp.com/users/806661811143049216)
 
+# My Published NPM libraries
+
+## Fontable
+
+A dev utility that adds a temporary font picker to your website, in order to try out different fonts. It allows choosing any Google Font.
+
+[npm](https://www.npmjs.com/package/fontable)
+[github](https://github.com/randombits-dev/fontable)
+[demo](https://randombits-dev.github.io/fontable/)
+
+## Astro Font Picker
+
+Similar to Fontable, but it's an integration to the Astro Dev Toolbar.
+[npm](https://www.npmjs.com/package/astro-font-picker)
+[github](https://github.com/randombits-dev/astro-font-picker)
+
 # My Personal Projects
+
+## Offering Inspiration
+
+A gift idea site based on successful Kickstarter projects.
+
+Uses historical kickstarter data that was filtered to only include successful and purchasable products.
+
+[app](https://offeringinspiration.com)
+[github](https://github.com/randombits-dev/offering-inspiration)
 
 ## Heroicus
 
@@ -17,23 +42,31 @@ Winner of the [Fantom Hackathon Q2 2023](https://devpost.com/software/heroicus)
 
 A cloud computing platform, powered by blockchain. Run your own Stable Diffusion or Docker servers by renting NFTs, and paying with crypto. The application state is completely managed on the blockchain, while the servers are provisioned by AWS.
 
-[app](http://heroicus.xyz/)
-[docs](https://docs.heroicus.xyz/)
-[github](https://github.com/nienow/heroicus)
+[github](https://github.com/randombits-dev/heroicus)
 [video](https://youtu.be/q--0eLbIEvI?si=6FYLa3f62O-5pCy1)
 
 <hr/>
 
-## Fontable
+## Micro Storage
 
-Find the right Google font by embedding a temporary font picker on your website.
+Entered into the [Chainlink Constellation Hackathon](https://devpost.com/software/micro-storage)
 
-[demo](https://randombits-dev.github.io/fontable/) [github](https://github.com/randombits-dev/fontable)
+A cloud storage platform that uses NFTs to manage subscriptions. It uses Chainlink Functions to synchronize the blockchain with the centralized backend server, Chainlink Automation to terminate expired subscriptions, and Chainlink Price Feeds to allow users to pay in multiple currencies.
+
+[github](https://github.com/randombits-dev/micro-storage)
+[video](https://www.youtube.com/watch?v=fpE87Czl0OQ)
 
 <hr/>
 
+## Snowrunner Save Editor
 
-## Standard Notes Extensions, Themes, and Guides
+A save editor for the game Snowrunner. Has the ability to edit task and mission progress, and reveal or obtain upgrades.
+
+[app](https://randombits.dev/tools/snowrunner)
+[github](https://github.com/nienow/snowrunner-save-editor)
+
+
+# Standard Notes Extensions, Themes, and Guides
 
 Extensions, themes, and guides to the privacy-focused note-taking app Standard Notes.
 
@@ -88,10 +121,3 @@ A starter template for creating Standard Notes Extensions.
 2. [Creating Standard Notes Extensions](https://randombits.dev/standard-notes/creating-extensions)
 
 <hr/>
-
-## Snowrunner Save Editor
-
-A save editor for the game Snowrunner. Has the ability to edit task and mission progress, and reveal or obtain upgrades.
-
-[app](https://randombits.dev/tools/snowrunner)
-[github](https://github.com/nienow/snowrunner-save-editor)
