@@ -1,37 +1,41 @@
 
 
-# My Links
+# Contact Info
 * [Random Bits Software Engineering](https://randombits.dev) - This is my business website
 * [Random Bits Github Profile](https://github.com/randombits-dev)
 * [Personal Github Profile](https://github.com/nienow)
 * [Twitter](https://twitter.com/RandomBitsDev)
 * [Discord](https://discordapp.com/users/806661811143049216)
 
-# My Published NPM libraries
+# NPM Libraries I maintain
 
-## Fontable
+## [Fontable](https://www.npmjs.com/package/fontable)
 
 A dev utility that adds a temporary font picker to your website, in order to try out different fonts. It allows choosing any Google Font.
 
-[npm](https://www.npmjs.com/package/fontable)
 [github](https://github.com/randombits-dev/fontable)
 [demo](https://randombits-dev.github.io/fontable/)
 
-## Astro Font Picker
+## [Astro Font Picker](https://www.npmjs.com/package/astro-font-picker)
 
 Similar to Fontable, but it's an integration to the Astro Dev Toolbar.
-[npm](https://www.npmjs.com/package/astro-font-picker)
+
 [github](https://github.com/randombits-dev/astro-font-picker)
+
+## [Standard Notes Extension API](https://www.npmjs.com/package/sn-extension-api)
+
+An easier-to-use API for writing Standard Note Plugins. Standard Notes is a privacy-focused note-taking app.
+
+[github](https://github.com/nienow/sn-extension-api)
 
 # My Personal Projects
 
-## Offering Inspiration
+## [Offering Inspiration](https://offeringinspiration.com)
 
 A gift idea site based on successful Kickstarter projects.
 
 Uses historical kickstarter data that was filtered to only include successful and purchasable products.
 
-[app](https://offeringinspiration.com)
 [github](https://github.com/randombits-dev/offering-inspiration)
 
 ## Heroicus
@@ -45,7 +49,6 @@ A cloud computing platform, powered by blockchain. Run your own Stable Diffusion
 [github](https://github.com/randombits-dev/heroicus)
 [video](https://youtu.be/q--0eLbIEvI?si=6FYLa3f62O-5pCy1)
 
-<hr/>
 
 ## Micro Storage
 
@@ -56,64 +59,48 @@ A cloud storage platform that uses NFTs to manage subscriptions. It uses Chainli
 [github](https://github.com/randombits-dev/micro-storage)
 [video](https://www.youtube.com/watch?v=fpE87Czl0OQ)
 
-<hr/>
 
-## Snowrunner Save Editor
+## [Snowrunner Save Editor](https://randombits.dev/tools/snowrunner)
 
 A save editor for the game Snowrunner. Has the ability to edit task and mission progress, and reveal or obtain upgrades.
 
-[app](https://randombits.dev/tools/snowrunner)
-[github](https://github.com/nienow/snowrunner-save-editor)
+[github]
 
 
-# Standard Notes Extensions, Themes, and Guides
+# Standard Notes Plugins, Themes, and Guides
 
-Extensions, themes, and guides to the privacy-focused note-taking app Standard Notes.
+I'm a big fan of Privacy. Standard Notes is a privacy-focused note-taking app. So I've been supporting them by creating plugins, themes, and guides.
 
-[Standard Notes Extension List](https://randombits.dev/standard-notes/extensions-list)
+[Demos of my Standard Notes Plugins](https://randombits.dev/standard-notes/extensions-list)
 
-#### Cosmos Extension
+#### [Cosmos Plugin](https://github.com/nienow/cosmos)
 
 Splits a note into multiple areas, and each area can use a different editor. Also includes an extension marketplace.
 
-[github](https://github.com/nienow/cosmos)
-
-#### Excalidraw Extension
+#### [Excalidraw Plugin](https://github.com/nienow/sn-excalidraw)
 
 A drawing editor for Standard Notes, powered by Excalidraw.
 
-[github](https://github.com/nienow/sn-excalidraw)
-
-#### Mermaid Extension
+#### [Mermaid Plugin](https://github.com/nienow/sn-mermaid)
 
 A diagram generator for Standard Notes, powered by Mermaid.
 
-[github](https://github.com/nienow/sn-mermaid)
-
-#### Quill Extension
+#### [Quill Extension](https://github.com/nienow/sn-quill)
 
 A lightweight rich text editor for Standard Notes, powered by Quilljs.
 
-[github](https://github.com/nienow/sn-quill)
-
-#### Overcast Theme
+#### [Overcast Theme](https://github.com/nienow/sn-theme-overcast)
 
 A simple grayscale theme for Standard Notes.
 
-[github](https://github.com/nienow/sn-theme-overcast)
-
-#### Standard Notes Extension API
+#### [Standard Notes Extension API](https://www.npmjs.com/package/sn-extension-api)
 
 An easier-to-use API for writing Standard Note Extensions.
-
 [github](https://github.com/nienow/sn-extension-api)
-[npm](https://www.npmjs.com/package/sn-extension-api)
 
-#### Standard Notes Extension Template
+#### [Standard Notes Extension Template](https://github.com/nienow/sn-extension-template)
 
 A starter template for creating Standard Notes Extensions.
-
-[github](https://github.com/nienow/sn-extension-template)
 
 #### Standard Notes Guides
 
