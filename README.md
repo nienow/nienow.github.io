@@ -1,10 +1,10 @@
 
 
 # Contact Info
-* [Random Bits Software Engineering](https://randombits.dev) - This is my business website
+* [matt@randombits.dev](mailto:matt@randombits.dev)
+* [Website - Random Bits Software Engineering](https://randombits.dev)
 * [Random Bits Github Profile](https://github.com/randombits-dev)
 * [Personal Github Profile](https://github.com/nienow)
-* [Twitter](https://twitter.com/RandomBitsDev)
 * [Discord](https://discordapp.com/users/806661811143049216)
 
 # NPM Libraries I maintain
@@ -30,13 +30,20 @@ An easier-to-use API for writing Standard Note Plugins. Standard Notes is a priv
 
 # My Personal Projects
 
-## [Offering Inspiration](https://offeringinspiration.com)
+## Font Frame
 
-A gift idea site based on successful Kickstarter projects.
+A Canva App. Add an image background to your text, by uploading an image, or selecting an image from your design. Change the font, adjust the image placement, and more.
 
-Uses historical kickstarter data that was filtered to only include successful and purchasable products.
+[Install app](https://www.canva.com/your-apps/AAF5vGyV5TY/fontframe)
+[More info](https://randombits.dev/canva/font-frame)
 
-[github](https://github.com/randombits-dev/offering-inspiration)
+## Interval Timer
+
+A simple interval timer app for Android.
+
+[github](https://github.com/randombits-dev/interval-timer)
+[fdroid](https://f-droid.org/en/packages/dev.randombits.intervaltimer/)
+[play store](https://play.google.com/store/apps/details?id=dev.randombits.intervaltimer)
 
 ## Heroicus
 
