@@ -5,32 +5,41 @@
 * [Website - Random Bits Software Engineering](https://randombits.dev)
 * [Random Bits Github Profile](https://github.com/randombits-dev)
 * [Personal Github Profile](https://github.com/nienow)
-* [Discord](https://discordapp.com/users/806661811143049216)
 
 # NPM Libraries I maintain
 
-## [Fontable](https://www.npmjs.com/package/fontable)
+## Fontable
 
 A dev utility that adds a temporary font picker to your website, in order to try out different fonts. It allows choosing any Google Font.
 
+[npm](https://www.npmjs.com/package/fontable)
 [github](https://github.com/randombits-dev/fontable)
 [demo](https://randombits-dev.github.io/fontable/)
 
-## [Astro Font Picker](https://www.npmjs.com/package/astro-font-picker)
+## Astro Font Picker
 
 Similar to Fontable, but it's an integration to the Astro Dev Toolbar.
 
+[npm](https://www.npmjs.com/package/astro-font-picker)
 [github](https://github.com/randombits-dev/astro-font-picker)
 
-## [Standard Notes Extension API](https://www.npmjs.com/package/sn-extension-api)
+## Standard Notes Extension API
 
 An easier-to-use API for writing Standard Note Plugins. Standard Notes is a privacy-focused note-taking app.
 
+[npm](https://www.npmjs.com/package/sn-extension-api)
 [github](https://github.com/nienow/sn-extension-api)
 
 # My Personal Projects
 
-## Font Frame
+## FontStudio
+
+A Canva app to create advanced text effects using a layering system.
+
+[Install app](https://www.canva.com/apps/AAGLHfr5ZM0/fontstudio)
+[More info](https://randombits.dev/canva/font-studio)
+
+## FontFrame
 
 A Canva App. Add an image background to your text, by uploading an image, or selecting an image from your design. Change the font, adjust the image placement, and more.
 
@@ -56,21 +65,11 @@ A cloud computing platform, powered by blockchain. Run your own Stable Diffusion
 [github](https://github.com/randombits-dev/heroicus)
 [video](https://youtu.be/q--0eLbIEvI?si=6FYLa3f62O-5pCy1)
 
-
-## Micro Storage
-
-Entered into the [Chainlink Constellation Hackathon](https://devpost.com/software/micro-storage)
-
-A cloud storage platform that uses NFTs to manage subscriptions. It uses Chainlink Functions to synchronize the blockchain with the centralized backend server, Chainlink Automation to terminate expired subscriptions, and Chainlink Price Feeds to allow users to pay in multiple currencies.
-
-[github](https://github.com/randombits-dev/micro-storage)
-[video](https://www.youtube.com/watch?v=fpE87Czl0OQ)
-
-
-## [Snowrunner Save Editor](https://randombits.dev/tools/snowrunner)
+## Snowrunner Save Editor
 
 A save editor for the game Snowrunner. Has the ability to edit task and mission progress, and reveal or obtain upgrades.
 
+[app](https://randombits.dev/tools/snowrunner)
 [github]
 
 
